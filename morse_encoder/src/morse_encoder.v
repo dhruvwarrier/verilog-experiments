@@ -17,7 +17,7 @@ module morse_encoder(input [2:0] letter, input start_encode, clock, reset, outpu
 	reg parallel_loadn;
 	
 	// load data at posedge start_encode pulse, and stop loading data at end of pulse
-	always @(posedge clock)
+	always @(start_encode)
 	begin
 	
 		if (start_encode == 1'b1)
