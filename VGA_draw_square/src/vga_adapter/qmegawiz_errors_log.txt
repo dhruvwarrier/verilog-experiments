@@ -1,0 +1,10 @@
+
+
+C:/Users/Dhruv Warrier/Downloads/verilog_lab7_2/vga_adapter/vga_pll.v
+
+Nov 04 08PM:56:26>: Error in CNX file format.
+
+Error messages are listed in file
+C:/Users/Dhruv Warrier/Downloads/verilog_lab7_2/vga_adapter/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
